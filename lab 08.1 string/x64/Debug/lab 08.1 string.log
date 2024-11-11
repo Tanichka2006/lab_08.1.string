@@ -1,0 +1,3 @@
+﻿  lab 08.1 string.cpp
+C:\Users\admin\source\repos\lab 08.1 string\lab 08.1 string\lab 08.1 string.cpp(7,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab 08.1 string.vcxproj -> C:\Users\admin\source\repos\lab 08.1 string\x64\Debug\lab 08.1 string.exe
